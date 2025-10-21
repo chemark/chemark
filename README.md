@@ -27,10 +27,10 @@ I build useful tools with clean architecture and observability in mind, and expe
 > More pins on my profile.
 
 ## My Top Languages
-[Dynamic card here]
+‎⁠![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chemark&layout=compact)⁠
 
 ## My GitHub Stats
-[Dynamic card here]
+‎`![GitHub Stats](https://github-readme-stats.vercel.app/api?username=chemark&show_icons=true)`
 
 ## Working Status
 - 💭 Recharging between jobs (Busy: limited availability)  
